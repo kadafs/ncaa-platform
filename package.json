@@ -16,6 +16,7 @@
         "clsx": "^2.1.1",
         "framer-motion": "^12.26.1",
         "lucide-react": "^0.562.0",
+        "ncaa-api": "file:../ncaa-api",
         "next": "16.1.1",
         "next-auth": "^4.24.13",
         "react": "19.2.3",
